@@ -1,0 +1,17 @@
+.avatar {
+    margin: 10;
+}
+
+.orangeAvatar {
+    margin: 10;
+    color: '#fff';
+    background-color: orange;
+    /* background-color: deepOrange[500]; */
+}
+
+.purpleAvatar {
+    margin: 10;
+    color: '#fff';
+    background-color: purple;
+    /* backgroundColor: deepPurple[500] */
+}
